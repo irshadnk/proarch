@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "author": "Asish",
+  "author": "Irshad",
   "dependencies": {
     "axios": "^0.18.0",
     "har-validator": "^5.1.3",
