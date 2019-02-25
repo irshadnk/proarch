@@ -1,0 +1,30 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "set NODE_ENV=dev && set PORT=3002 && nodemon app.js ",
+    "dev": "set NODE_ENV=dev && set PORT=3002 && nodemon app.js",
+    "prod": "set NODE_ENV=prod && set PORT=3002 && node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.1.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jsonfile": "^4.0.0",
+    "mongoose": "^5.1.0",
+    "morgan": "^1.9.0",
+    "npmlog-ts": "0.0.1",
+    "request": "^2.87.0",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  }
+}
