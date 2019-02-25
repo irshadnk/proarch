@@ -20,23 +20,23 @@ self.__precacheManifest = [
     "url": "/proarch-depoy/static/js/runtime~main.3d245620.js"
   },
   {
-    "revision": "58e3f780eed3c76f1b05",
-    "url": "/proarch-depoy/static/js/main.58e3f780.chunk.js"
+    "revision": "7a0ffd7d41190edcf902",
+    "url": "/proarch-depoy/static/js/main.7a0ffd7d.chunk.js"
   },
   {
-    "revision": "22c8d16e8b3e79b7a778",
-    "url": "/proarch-depoy/static/js/1.22c8d16e.chunk.js"
+    "revision": "02a3d841e437e6070d4e",
+    "url": "/proarch-depoy/static/js/1.02a3d841.chunk.js"
   },
   {
-    "revision": "58e3f780eed3c76f1b05",
-    "url": "/proarch-depoy/static/css/main.d45c7fab.chunk.css"
+    "revision": "7a0ffd7d41190edcf902",
+    "url": "/proarch-depoy/static/css/main.15b02b51.chunk.css"
   },
   {
-    "revision": "22c8d16e8b3e79b7a778",
-    "url": "/proarch-depoy/static/css/1.ee16840c.chunk.css"
+    "revision": "02a3d841e437e6070d4e",
+    "url": "/proarch-depoy/static/css/1.4a2dad31.chunk.css"
   },
   {
-    "revision": "4a43f571525ccd19bda319691a59684e",
+    "revision": "1f6e82785ac37637adbcd02248f23098",
     "url": "/proarch-depoy/index.html"
   }
 ];
